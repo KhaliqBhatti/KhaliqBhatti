@@ -4,8 +4,8 @@
 Hey there! I'm Abdul Khaliq, a passionate web developer with a knack for turning ideas into interactive and user-friendly digital experiences. My journey in the world of coding started with a love for problem-solving and a fascination with the endless possibilities of the web.
 
 ## 💻 Skills
-- **Languages:** HTML, CSS, Tailwind CSS , JavaScript , Redux , JQuerry
-- **Frameworks:** React.js, Node.js
+- **Languages:** HTML5, CSS3, Tailwind CSS , Bootstrap, MUI, Framer Motion, Styled Components, JavaScript , Redux , JQuerry,
+- **Frameworks:** React.js, Node.js , Redux Toolkit, React Query
 - **Tools:** Git , VS Code
 
 
